@@ -17,6 +17,7 @@ public class TestMID {
         // TODO code application logic here
         
       System.out.println("This is test object");
+        System.out.println("This is test object");
     }
     
 }
